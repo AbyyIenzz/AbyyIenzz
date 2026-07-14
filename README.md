@@ -1,5 +1,4 @@
-# Hi there, I'm AbyyIenzz! 👋 <img src="dino.png" width="45" align="right" alt="Super Dino" />
-
+# Hi there, I'm AbyyIenzz! 👋
 <!-- Teks mengetik otomatis -->
 <p align="left">
   <a href="https://github.com/denvercoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=38bdf8&amp;width=435&amp;lines=Software+Engineering+Student;Web+Developer+%26+UI/UX+Designer;BlueTeam+%26+CTF+Enthusiast" alt="Typing SVG" /></a>
