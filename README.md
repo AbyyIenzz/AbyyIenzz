@@ -21,7 +21,7 @@ Welcome to my profile! I am a Software Engineering student currently diving deep
 
 <!-- Ganti link di dalam kurung dengan akun aslimu -->
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abyyienzz-jayden-a7b6743b1)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email-lu@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:belom-ada@gmail.com)
 
 ### ⚡ Fun Fact
 
