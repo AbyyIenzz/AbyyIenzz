@@ -13,7 +13,7 @@ Welcome to my profile! I am a Software Engineering student currently diving deep
 
 ### 🛠️ Tools
 
-![My Tools](https://skillicons.dev/icons?i=vscode,visualstudio,github,git,figma,linux,postman,apple,androidstudio,azure,stackoverflow,svg,notion,discord)
+![My Tools](https://skillicons.dev/icons?i=vscode,visualstudio,github,git,figma,linux,postman,apple,azure,discord)
 
 ---
 
