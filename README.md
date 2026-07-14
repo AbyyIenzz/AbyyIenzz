@@ -2,7 +2,7 @@
 
 <!-- Teks mengetik otomatis -->
 <p align="left">
-  <a href="https://github.com/denvercoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=38bdf8&amp;width=435&amp;lines=Software+Engineering+Student;Web+Developer+%26+UI/UX+Designer;Cybersecurity+%26+CTF+Enthusiast" alt="Typing SVG" /></a>
+  <a href="https://github.com/denvercoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=38bdf8&amp;width=435&amp;lines=Blue+Team+Beginner;Web+Developer+%26+UI/UX+Designer;Cybersecurity+%26+CTF+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
 Welcome to my profile! I am a Software Engineering student currently diving deep into web development, UI/UX prototyping, and cybersecurity. I love exploring code structures, building responsive interfaces, and practicing my skills through CTF challenges.
