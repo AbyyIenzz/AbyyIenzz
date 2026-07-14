@@ -18,7 +18,7 @@
 ### 🤝 Let's Connect!
 
 <!-- Ganti link di dalam kurung dengan akun aslimu -->
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username-lu)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/geraldine-al-rasyid-a7b6743b1)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email-lu@gmail.com)
 
 ---
