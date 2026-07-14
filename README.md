@@ -28,6 +28,6 @@
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Your Name"
+        self.name = "AbyyIenzz"
         self.role = "Student & Tech Enthusiast"
         self.hobbies = ["CTF", "Coding", "UI Design"]
