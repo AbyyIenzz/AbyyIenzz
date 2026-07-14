@@ -4,16 +4,16 @@ Welcome to my profile! I am a Software Engineering student currently diving deep
 
 ---
 
-### 🛠️ Technologies & Tools
+### ### 🌐 Language
 
 <!-- Baris Ikon Bahasa Pemrograman dan Tools -->
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-35709F?style=for-the-badge&logo=python&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=laravel,react,nextjs,supabase,js,ts,tailwind,sass,bootstrap,php,mysql,vite,nodejs)
+
+---
+
+### 🛠️ Tools
+
+![My Tools](https://skillicons.dev/icons?i=vscode,visualstudio,github,git,figma,linux,postman,apple,androidstudio,azure,stackoverflow,svg,notion,discord)
 
 ---
 
