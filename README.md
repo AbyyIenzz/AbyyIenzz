@@ -1,22 +1,11 @@
-# Hi there, I'm AbyyIenzz! 👋 
+# Hi there, I'm AbyyIenzz! 👋 <img src="dino.png" width="45" align="right" alt="Super Dino" />
 
 <!-- Teks mengetik otomatis -->
 <p align="left">
   <a href="https://github.com/denvercoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=38bdf8&amp;width=435&amp;lines=Software+Engineering+Student;Web+Developer+%26+UI/UX+Designer;Cybersecurity+%26+CTF+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
-<!-- Bungkus Bio & Dino GIF biar sejajar kanan-kiri -->
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="70%" valign="top">
-      <p>Welcome to my profile! I am a Software Engineering student currently diving deep into web development, UI/UX prototyping, and cybersecurity. I love exploring code structures, building responsive interfaces, and practicing my skills through CTF challenges.</p>
-    </td>
-    <td width="30%" valign="top" align="right">
-      <!-- Pastikan lu punya file dino.gif di repo lu, atau ganti link src di bawah ini pake url gif dino lu -->
-      <img src="dino.gif" width="180" alt="Animated Dino" />
-    </td>
-  </tr>
-</table>
+Welcome to my profile! I am a Software Engineering student currently diving deep into web development, UI/UX prototyping, and cybersecurity. I love exploring code structures, building responsive interfaces, and practicing my skills through CTF challenges.
 
 ---
 
