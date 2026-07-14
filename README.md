@@ -13,7 +13,7 @@ Welcome to my profile! I am a Software Engineering student currently diving deep
 ![Python](https://img.shields.io/badge/python-35709F?style=for-the-badge&logo=python&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Php](https://img.shields.io/badge/php-FCC624?style=for-the-badge&logo=php&logoColor=black)
 
 ---
 
