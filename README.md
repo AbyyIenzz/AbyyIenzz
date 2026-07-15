@@ -10,13 +10,13 @@ Welcome to my profile! I am a Software Engineering student currently diving deep
 
 ### 🌐 Language
 
-![My Skills](https://skillicons.dev/icons?i=laravel,react,nextjs,supabase,js,ts,tailwind,html,php,mysql,css,nodejs)
+![My Skills](https://skillicons.dev/icons?i=laravel,react,nextjs,js,tailwind,html,php,mysql,css,nodejs)
 
 ---
 
 ### 🛠️ Tools
 
-![My Tools](https://skillicons.dev/icons?i=vscode,visualstudio,github,git,figma,linux,postman,apple,azure,discord)
+![My Tools](https://skillicons.dev/icons?i=vscode,visualstudio,github,git,figma,linux,postman,discord)
 
 ---
 
